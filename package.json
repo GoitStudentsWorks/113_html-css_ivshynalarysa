@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-yt24/",
+    "build": "vite build --base=/113_html-css_ivshynalarysa/",
     "preview": "vite preview"
   },
   "devDependencies": {
